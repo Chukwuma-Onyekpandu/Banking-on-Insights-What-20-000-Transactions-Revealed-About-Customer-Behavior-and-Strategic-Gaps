@@ -2,7 +2,7 @@
 # Banking Customer & Transaction Analysis
 
 ### Project by Onyekpandu Chukwuma
-
+![Dashboard](https://github.com/Chukwuma-Onyekpandu/Banking-on-Insights-What-20-000-Transactions-Revealed-About-Customer-Behavior-and-Strategic-Gaps/blob/main/Screenshot%202025-06-25%20081721.png)
 ---
 
 ### Project Overview
